@@ -1,6 +1,6 @@
 {
-  "name": "@dashevo/dashd-rpc",
-  "description": "Dash Client Library to connect to Dash Core (dashd) via RPC",
+  "name": "@zipevo/zipd-rpc",
+  "description": "Zip Client Library to connect to Zip Core (zipd) via RPC",
   "version": "19.0.0",
   "author": {
     "name": "Stephen Pair",
@@ -25,16 +25,16 @@
     },
     {
       "name": "Alex Werner",
-      "email": "alex.werner@dash.org"
+      "email": "alex.werner@zip.org"
     }
   ],
   "keywords": [
-    "dash",
+    "zip",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashd-rpc"
+    "url": "https://github.com/zipevo/zipd-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -56,7 +56,7 @@
     "sinon": "^9.2.2"
   },
   "bugs": {
-    "url": "https://github.com/dashevo/dashd-rpc/issues"
+    "url": "https://github.com/zipevo/zipd-rpc/issues"
   },
-  "homepage": "https://github.com/dashevo/dashd-rpc"
+  "homepage": "https://github.com/zipevo/zipd-rpc"
 }
